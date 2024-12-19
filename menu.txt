@@ -1,0 +1,46 @@
+Appetizers
+Fries | €3,50 | Patatine Fritte
+Panelle | €3,50 | Panelle
+Mix Frittine Alla Napoletana | €10,00 | Fried Calamari Naples Style
+Antipasto Dello Chef | €15,00 | Chef's Antipasto
+Crocché | €5,00 | Crocché
+
+Main Courses
+Pasta Patate e Provola | €10,00 | Pasta with Potatoes and Provola
+Spaghetti alla Carbonara | €10,00 | Spaghetti Carbonara
+Spaghetti con le Cozze | €10,00 | Spaghetti with Mussels
+Paccheri al Pistacchio e Stracciatella | €11,00 | Paccheri with Pistachio and Stracciatella
+
+Second Courses
+Polpette al Sugo | €8,00 | Saucy Meatballs
+Saute' di Cozze | €10,00 | Mussels Saute'
+Mozzarella di Bufala Ripiena di Parmigiana | €8,50 | Buffalo Mozzarella Stuffed with Parmigiana
+
+Buns
+Hamburger Parmigiana, Friarielli e Provola | €6,00 | Hamburger Parmigiana, Friarielli and Provola
+Hamburger Cipolla, Zucchine e Stracciatella | €6,00 | Hamburger Onions, Zucchini and Stracciatella
+Salsiccia, Insalata, Pomodoro e Provola | €6,00 | Sausage, Salad, Tomato and Provola
+Salsiccia, Crauti, Cipolla e Provolone | €6,00 | Sausage, Sauerkraut, Onion and Provolone
+Salsiccia, Friarielli e Provola | €6,00 | Sausage, Friarielli and Provola
+Zucchine, Cipolla, Pomodoro e Provolone | €6,00 | Zucchini, Onion, Tomato and Provolone
+Parmigiana, Friarielli e Provola | €6,00 | Parmigiana, Friarielli and Provola
+
+Pinse
+Amatriciana | €11,00 | Amatriciana
+Parmigiana e Stracciatella | €11,00 | Parmigiana and Stracciatella
+Salsiccia, Friarielli e Provola | €11,00 | Sausage, Friarielli and Provola
+Pesto di Pistacchio, Guanciale e Stracciatella | €12,00 | Pistacchio Pesto, Guanciale and Stracciatella
+
+Beverages
+Bibite in Lattina | €3,50 | Soft Drinks
+Acqua 0,5L | €1,50 | Water 0,5L
+Acqua 1L | €1,50 | Water 1L
+Calice di Vino | €3,50 | Glass of Wine
+Mezzo Litro di Vino | €5,50 | Half Liter of Wine
+Un Litro di Vino | €9,50 | A Liter of Wine
+Birra 0,2L | €5,00 | Beer 0,2L
+Birra 0,4L | €6,00 | Beer 0,4L
+
+Extras
+Dolci della Casa | €4,50 | Home Made Desserts
+Coperto | €1,50 | Coperto
