@@ -107,7 +107,7 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
   function loadMenu() {
-    fetch("menu.txt")
+    fetch("./menu.txt")
       .then((response) => response.text())
       .then((data) => {
         const menuGrid = document.getElementById("menu-grid");
